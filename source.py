@@ -5,4 +5,4 @@ def feature1:
     print("This is feature 1")
 
 def featrue2:
-    pass
+    print("This is feature 2")
